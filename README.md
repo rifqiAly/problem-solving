@@ -6,7 +6,7 @@ for problem solving basic, go to folder
 test
 ```
 
-and run 'node filename.js'
+and run 'node filename.js' in terminal
 ex.
 ```
 node 1.js
