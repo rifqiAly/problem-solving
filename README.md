@@ -6,7 +6,7 @@ for problem solving basic, go to folder
 test
 ```
 
-and run 'node <problem number>'
+and run 'node filename.js'
 ex.
 ```
 node 1.js
